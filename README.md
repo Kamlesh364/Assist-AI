@@ -1,3 +1,4 @@
+
 # AssistAI
 
 Welcome to AssistAI! This is a Next.js-based web application that serves as a Software as a Service (SaaS) platform, providing access to Conversational AI assistants as well as AI generators for Images, Videos, Music, and Code. With this platform, you can unleash the power of artificial intelligence to enhance various aspects of your projects and workflows.
