@@ -34,7 +34,7 @@ const routes = [
     label: 'Video Generation',
     icon: VideoIcon,
     color: "text-orange-700",
-    href: '/video',
+    href: '/settings', // TODO: Change to video
   },
   {
     label: 'Music Generation',

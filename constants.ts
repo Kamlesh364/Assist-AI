@@ -29,7 +29,7 @@ export const tools = [
     icon: VideoIcon,
     color: "text-orange-700",
     bgColor: "bg-orange-700/10",
-    href: '/video',
+    href: '/settings', // TODO: Change to video
   },
   {
     label: 'Code Generation',
