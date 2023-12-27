@@ -58,6 +58,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For any questions or assistance, feel free to reach out to us at [support@example.com].
+For any questions or assistance, feel free to reach out to us at [kkamlesh.p47@gmail.com].
 
 Happy coding and exploring the possibilities with AssistAI!
