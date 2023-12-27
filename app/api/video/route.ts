@@ -33,10 +33,10 @@ export async function POST(
     }
 
     const response = await replicate.run(
-      "anotherjesse/zeroscope-v2-xl:71996d331e8ede8ef7bd76eba9fae076d31792e4ddf4ad057779b443d6aea62f",
+      "deforum/deforum_stable_diffusion:e22e77495f2fb83c34d5fae2ad8ab63c0a87b6b573b6208e1535b23b89ea66d6",
       {
         input: {
-          prompt,
+          max_frames: "100"
         }
       }
     );
