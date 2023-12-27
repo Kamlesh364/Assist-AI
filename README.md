@@ -1,6 +1,4 @@
-## Deploy to Google Cloud Run
 
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 # AssistAI
 
 Welcome to AssistAI! This is a Next.js-based web application that serves as a Software as a Service (SaaS) platform, providing access to Conversational AI assistants as well as AI generators for Images, Videos, Music, and Code. With this platform, you can unleash the power of artificial intelligence to enhance various aspects of your projects and workflows.
@@ -66,3 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions or assistance, feel free to reach out to us at [kkamlesh.p47@gmail.com].
 
 Happy coding and exploring the possibilities with AssistAI!
+
+## Deploy to Google Cloud Run
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
