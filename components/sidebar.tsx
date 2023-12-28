@@ -31,10 +31,10 @@ const routes = [
     href: '/image',
   },
   {
-    label: 'Video Generation',
+    label: 'Video Generation - Pro',
     icon: VideoIcon,
     color: "text-orange-700",
-    href: '/settings', // TODO: Change to video
+    href: '/upgrade', // TODO: Change to video
   },
   {
     label: 'Music Generation',

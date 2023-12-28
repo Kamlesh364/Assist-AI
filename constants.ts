@@ -25,11 +25,11 @@ export const tools = [
     href: '/image',
   },
   {
-    label: 'Video Generation',
+    label: 'Video Generation - For Pro Users Only',
     icon: VideoIcon,
     color: "text-orange-700",
     bgColor: "bg-orange-700/10",
-    href: '/settings', // TODO: Change to video
+    href: '/video', // TODO: Change to video
   },
   {
     label: 'Code Generation',
